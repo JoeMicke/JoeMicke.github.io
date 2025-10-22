@@ -1,1 +1,6 @@
-# JoeMicke.github.io
+# Resume
+[]
+
+# About Me:
+
+# Projects:
