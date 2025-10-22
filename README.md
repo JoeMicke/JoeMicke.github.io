@@ -1,8 +1,4 @@
----
-layout: default
----
-
-# Resume
+# JoeMicke.github.io
 
 # About Me:
 
